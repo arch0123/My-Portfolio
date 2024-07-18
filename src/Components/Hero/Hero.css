@@ -55,6 +55,7 @@
 }
 
 .hero-resume{
+    
     padding : 25px 75px;
     border-radius : 50px;
     border : 2px solid #FFF;
@@ -63,8 +64,8 @@
     color: aliceblue;
     width: 260px;
     height: 80px;
-    font-size: 20px;
-    font-weight: 300;
+    font-size: 22px;
+    font-weight: 600;
     
     
 }

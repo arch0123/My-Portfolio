@@ -5,6 +5,7 @@
     align-items: center;
     justify-content: space-between;
     margin: 20px 170px;
+
 }
 
 .nav-menu {
@@ -13,6 +14,9 @@
     list-style: none;
     gap: 60px;
     font-size: 20px;
+ 
+
+    
 }
 
 .nav-connect {
@@ -22,7 +26,8 @@
     font-size: 22px;
     cursor: pointer;
     transition: transform 0.5s;
-    padding-top: 25px;
+    
+    
 }
 
 .nav-connect:hover {
@@ -30,7 +35,11 @@
 }
 
 .logo {
-    font-size: 3rem;
+    font-size: 3rem;  
+
+    
+    
+
 
 
 
